@@ -4,7 +4,7 @@
 
 I will learn everything in Coding and share it for everyone
 
-Skills: PHP/ LARAVEL / NODEJS / JS / HTML / CSS
+Skills: PHP/ LARAVEL / WORDPRESS / NODEJS / JS / HTML / CSS / VUEJS / ANGULAR / DOCKER / C#
 
 🔭 I’m currently working on MISA 🌱 I’m currently learning NodeJS | React Native 📫 How to reach me: thangdangblog@gmail.com 
 
